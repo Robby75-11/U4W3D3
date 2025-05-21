@@ -1,5 +1,6 @@
 package dao;
 
+import entities.Diploma;
 import entities.Studente;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;
